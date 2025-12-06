@@ -1,0 +1,1 @@
+A comparative study on the Caltech-256 dataset contrasting high-performance Supervised Learning (ResNet50 and FixRes) against a novel Unsupervised Fractal Autoencoder for geometric manifold discovery.
